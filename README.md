@@ -15,4 +15,4 @@ https://mauser.pt/catalog/product_info.php?cPath=641_300&products_id=047-1704
 
 2 to 9 > output ports data
 
-13 > select lpt1 Lpt2
+13 < select lpt1 Lpt2
