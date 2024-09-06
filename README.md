@@ -6,5 +6,7 @@ on usb to lpt cable every pin of lpt side is a in out 8 bits port to conect cmos
 https://en.wikipedia.org/wiki/Parallel_port
 
 
+https://en.wikipedia.org/wiki/USB_hardware
+
 
 
