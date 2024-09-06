@@ -19,7 +19,7 @@ https://mauser.pt/catalog/product_info.php?cPath=641_300&products_id=047-1704
 
 data > d d number
 
-11 < <| 0
+11 < <| 1
 
 https://mauser.pt/catalog/product_info.php?products_id=001-1400
 
