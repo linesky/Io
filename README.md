@@ -33,5 +33,5 @@ mode
 
 linux:
 
-ls /dev/\*lpt\*
+ls /dev/usb/\*lp\*
 
