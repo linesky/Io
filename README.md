@@ -16,3 +16,6 @@ https://mauser.pt/catalog/product_info.php?cPath=641_300&products_id=047-1704
 2 to 9 > output ports data
 
 https://mauser.pt/catalog/product_info.php?products_id=001-1400
+
+https://images.app.goo.gl/zTiSU8HqN2TbQY2LA
+
