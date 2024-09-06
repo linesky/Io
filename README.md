@@ -8,5 +8,7 @@ https://en.wikipedia.org/wiki/Parallel_port
 
 https://en.wikipedia.org/wiki/USB_hardware
 
+https://en.wikipedia.org/wiki/LPT_(disambiguation)
+
 
 
