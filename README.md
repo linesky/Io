@@ -25,3 +25,13 @@ https://mauser.pt/catalog/product_info.php?products_id=001-1400
 
 https://images.app.goo.gl/zTiSU8HqN2TbQY2LA
 
+find port name
+
+windows:
+
+mode
+
+linux:
+
+ls /dev/*lpt*
+
