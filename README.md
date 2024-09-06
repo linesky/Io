@@ -11,5 +11,5 @@ https://en.wikipedia.org/wiki/USB_hardware
 https://en.wikipedia.org/wiki/LPT_(disambiguation)
 
 
-https://mauser.pt/catalog/product_info.php?products_id=047-1704
+
 
