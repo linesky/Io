@@ -13,6 +13,7 @@ https://en.wikipedia.org/wiki/LPT_(disambiguation)
 https://mauser.pt/catalog/product_info.php?cPath=641_300&products_id=047-1704
 
 
+
 2 to 9 > output ports data
 
 1 > d clock
@@ -26,6 +27,8 @@ out 1 must be conect into and door to get more fun out fun in door of the d cloc
 https://mauser.pt/catalog/product_info.php?products_id=001-1400
 
 https://images.app.goo.gl/zTiSU8HqN2TbQY2LA
+
+https://pt.wikipedia.org/wiki/TTL_7408
 
 find port name
 
