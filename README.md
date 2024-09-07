@@ -26,6 +26,10 @@ out 1 must be conect into and door to get more fun out fun in door of the d cloc
 
 d1 - d8 = d q
 
+out of 4 d q fuse 15 mA speed fuses bur
+n out
+
+
 https://mauser.pt/catalog/product_info.php?products_id=001-1400
 
 https://images.app.goo.gl/zTiSU8HqN2TbQY2LA
