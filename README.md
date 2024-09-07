@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/LPT_(disambiguation)
 
 https://mauser.pt/catalog/product_info.php?cPath=641_300&products_id=047-1704
 
-
+https://en.wikipedia.org/wiki/Parallel_communication
 
 2 to 9 > output ports data
 
