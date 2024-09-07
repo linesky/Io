@@ -24,6 +24,8 @@ data > d d number
 
 out 1 must be conect into and door to get more fun out fun in door of the d clock
 
+d1 - d8 = d q
+
 https://mauser.pt/catalog/product_info.php?products_id=001-1400
 
 https://images.app.goo.gl/zTiSU8HqN2TbQY2LA
